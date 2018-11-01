@@ -1,0 +1,11 @@
+$icons-path: '~ag-grid-community/src/styles/icons/';
+$font-family: Arial,
+Helvetica,
+sans-serif;
+$font-size: 13px;
+$cell-horizontal-padding: 4px;
+$header-background-color: #f2f4f7;
+$odd-row-background-color: white;
+$border-color: #d6dfe6;
+@import '~ag-grid-community/src/styles/ag-grid.scss';
+@import '~ag-grid-community/src/styles/ag-theme-fresh.scss';
